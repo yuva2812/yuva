@@ -1,5 +1,5 @@
 a=20
 if(a>100):
-    print("a is greater than 100")
+    print("a is greater")
 else:
-    print("a is lesser than 100")
+    print("a is lesser")
